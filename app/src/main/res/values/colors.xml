@@ -21,7 +21,7 @@
     <color name="white">#fafafa</color>
     <color name="black">#333333</color>
 
-    <color name="screen">#4e888a</color>
-    <color name="sound">#f19645</color>
+    <color name="screen">#c0392b</color>
+    <color name="sound">#2c3e50</color>
     <color name="icon">#56000000</color>
 </resources>
