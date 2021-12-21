@@ -15,8 +15,8 @@
      limitations under the License.
 -->
 <resources>
-    <string name="cancel">გაუქმება</string>
-    <string name="sound_last_title">ბოლო ჩანაწერი</string>
-    <string name="screen_last_title">ბოლო ჩანაწერი</string>
-    <string name="dialog_permissions_title">ნებართვები</string>
+    <string name="share">Cumpartzi</string>
+    <string name="delete">Iscantzella</string>
+    <string name="cancel">Annulla</string>
+    <string name="delete_message">Ses seguru chi nche cheres iscantzellare %1$s? Custu non podet èssere annulladu</string>
 </resources>
